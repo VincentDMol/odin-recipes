@@ -1,0 +1,47 @@
+.focheader {
+text-align: center;
+text-decoration: underline;
+background-color: tomato;
+color: black;
+}
+
+.center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 35%; 
+        border: 10px dotted rgb(00,99,35);
+        padding: 20px;
+}
+.underbread {
+    text-align: center;
+}
+
+
+ul {
+    list-style-type: square
+}
+
+
+h3 , h4 , .final {
+text-align: left;
+text-decoration: underline;
+color: rgb(24, 99, 55);
+}
+
+.list {
+text-align: left;
+}
+.ingredientslist {
+    color: rgb(24, 99, 55);
+}
+.final {
+text-align: center;
+font-weight: 900;
+}
+footer {
+text-align: center;
+}
+body{
+    text-align: center;
+}
